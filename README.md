@@ -1,4 +1,4 @@
-# Tensorflow implementation of [HarDNet: A Low Memory Traffic Network ( ICCV 2019 paper)](https://arxiv.org/abs/1909.00948)
+# HarDNet: A Low Memory Traffic Network ( ICCV 2019 paper)](https://arxiv.org/abs/1909.00948) (Tensorflow Implementation)
 
 ## Key Points:
 
